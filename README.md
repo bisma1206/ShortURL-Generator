@@ -40,7 +40,7 @@ Start the server: After installing dependencies, you can start the app:
 
 
 npm run dev
-This will start a local server, and you can view the project by opening http://localhost:5173 in your browser.
+This will start a local server, and you can view the project by opening http://localhost:5003 in your browser.
 
 ---
 

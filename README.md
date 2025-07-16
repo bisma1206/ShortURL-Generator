@@ -44,7 +44,8 @@ This will start a local server, and you can view the project by opening http://l
 
 ---
 
-🧰 Tech Stack
+🧰 **Tech Stack**
+
 Frontend: HTML, CSS, JavaScript (Vite)
 
 Backend: Node.js, Express.js
@@ -55,11 +56,14 @@ Tools: Nodemon, Mongoose, dotenv
 
 ---
 
-🛡️ Security
+🛡️ **Security**
+
 MongoDB credentials stored in .env
 
 No login or sensitive user data required
+
 ---
 
-🤝 Contributions
+**🤝 Contributions**
+
 Pull requests, issues, and suggestions are welcome! Feel free to fork the repo and contribute.
